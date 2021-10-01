@@ -1,5 +1,5 @@
 # HMI-Arduino-Firmware
-This is the arduino sketch for the HMI Series of my Youtube channel
+This is the arduino sketch for the HMI Series of my Youtube channel and also the Windows Application build v1.0
 
 
 Here's the link to the playlist with all the information for this project

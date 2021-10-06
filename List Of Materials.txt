@@ -1,13 +1,23 @@
-1 X Arduino Nano (SIM1)
-2 X Relay 5v (RL1 RL2)
 1 X 1 DC Connector Power Plug (J1)
-1 X Potentiomenter 10K  (U3)
-1 X Dht11 (U2)
-1 X L293D IC  (U1)
-1 X HC05 (J9)
-1 X OLed Display 128x64 I2C  
-7 X Led 0.5mm (D1, D2, D4, D6, D7, D8, D9)
-4 X Terminal Block M2 (J2, J6, J7, J8)
 4 X 1N4007 GP Diode or 1N5822 Schottky  (D3, D5, D10, D11)
 7 X 330R resitor (R1, R3, R5, R6, R7, R8, R9)
+7 X Led 0.5mm (D1, D2, D4, D6, D7, D8, D9)
+3 X Jumper(JP1, JP2, JP4)
+2 X Relay 5v (RL1 RL2)
+3 X 1K resistor (R2, R4, R10)
+2 X 2N2222 NPN Transistor (Q1, Q2)
+1 X OLed Display 128x64 I2C 
+1 X 2K resistor (R11) 
+1 X HC05 (J9)
+4 X Terminal Block M2 (J2, J6, J7, J8)
+1 X 4 pin male header (J5)
+1 X 1 pin male header (J10)
+1 X 2 pin male header (J11)
+1 X L293D IC  (U1)
+1 X Arduino Nano (SIM1)
+1 X Dht11 (U2)
+1 X Potentiomenter 10K  (U3)
 
+Note. This circuit needs a 5V external power supply. 
+      To program the arduino Nano disconnect the power supply and connect the micro usb to the Computer.
+      For more details: https://www.youtube.com/watch?v=MdItenf5Iyk&list=PLJ9xqaywaFW6b_IQ3Nlh-VayaLq7eKeax

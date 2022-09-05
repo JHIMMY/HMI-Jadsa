@@ -1,5 +1,5 @@
 # HMI-Arduino-Firmware
-This is the arduino sketch for the HMI Series of my Youtube channel and also the Windows Application build v1.0
+This is the repo for the HMI Series of my Youtube channel and also the Windows Application build v1.0
 
 
 Here's the link to the playlist with all the information for this project, and how to write the firmware for arduino and Winforms projects.
